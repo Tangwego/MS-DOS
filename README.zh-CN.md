@@ -1,4 +1,4 @@
-#简体中文：
+简体中文：
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">
 
 ## MS-DOS v1.25 和 v2.0 的源码
@@ -18,7 +18,7 @@
 
 
 
-#繁体中文：
+繁体中文：
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/master/msdos-logo.png">
 
 ## MS-DOS v1.25 和 v2.0 的原始碼
